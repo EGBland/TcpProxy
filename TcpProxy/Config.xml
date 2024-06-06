@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+  <ForwardTo>
+    <Address>127.0.0.1</Address>
+    <Port>5001</Port>
+  </ForwardTo>
+  <ListenOn>
+    <Port>8000</Port>
+  </ListenOn>
+  <Timeout>15000</Timeout>
+</Configuration>
